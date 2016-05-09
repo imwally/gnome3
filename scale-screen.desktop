@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Scale Screen
+GenericName=Scale HiDPI screen
+Comment=Scales HiDPI screen for more screen space.
+Exec=/home/wally/Apps/bin/scale-screen.sh
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
